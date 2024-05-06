@@ -1,0 +1,19 @@
+
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+header{background-color:#3C2723;}
+
+.nav-link{font-size: 40px;}
+a.nav-link{color:white;}
+.nav-link:hover{
+	color:#3C2723;
+
+}
+.nav-pills .nav-link.active
+{background-color:#ac6e63;}
+
+p{text-align:
+}
+body{background-color:#D6C4C2;}
+
+
+
